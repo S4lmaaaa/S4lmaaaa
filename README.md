@@ -1,9 +1,5 @@
-<!-- 🌸 Girly Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Z8a3VPl.png" alt="Girly Banner" width="900"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Salma Othmen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Salma Othmen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A soft-girl coder 💖 | Front-End & Python Enthusiast | Turning ideas into cute coding projects ✨</h3>
 
 ---
@@ -31,10 +27,10 @@
 ## 🛠️ My Skills
 <p align="center">
     <strong>Mainly 💖:</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=git,github,python,html,css,tailwind,js,react,java,c,gsap"/>
+    <img src="https://skillicons.dev/icons?i=git,github,python,html,css,tailwind,js,react,java,c"/>
     <br/><br/>
     <strong>Also use:</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,blender,canva,framer,figma,cisco"/>
+    <img src="https://skillicons.dev/icons?i=mysql,blender,canva,framer,figma"/>
 </p>
 
 ---
