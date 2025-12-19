@@ -31,10 +31,10 @@
 ## 🛠️ My Skills
 <p align="center">
     <strong>Mainly 💖:</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,react,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=git,github,python,html,css,tailwind,js,react,java,c,gsap"/>
     <br/><br/>
     <strong>Also use:</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=c,java,mysql,blender,canva,framer"/>
+    <img src="https://skillicons.dev/icons?i=mysql,blender,canva,framer,figma,cisco"/>
 </p>
 
 ---
@@ -63,12 +63,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-    <img src="https://github.com/s4lmaaaa/s4lmaaaa/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 💖 Fun Fact
 - I love making mini coding projects just for fun, like small games, bots, or animated websites!  
