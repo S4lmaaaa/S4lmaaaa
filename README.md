@@ -1,6 +1,6 @@
 <!-- 🌸 Banner Image -->
 <p align="center">
-  <img src="[[https://i.imgur.com/7vQ3K7p.png](https://pin.it/3XJonCrAw)])" alt="Cute Coding Banner" width="700"/>
+  <img src="téléchargement.jpeg" alt="Cute Coding Banner" width="700"/>
 </p>
 
 <!-- 🌸 Welcome Section -->
