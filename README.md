@@ -73,6 +73,8 @@
 </p>
 
 <br>
+![Snake GIF](https://github.com/s4lmaaaa/s4lmaaaa/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## :trophy: GitHub Trophies
 <p align="center">
