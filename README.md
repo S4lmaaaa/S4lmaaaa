@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi , I'm Salma Othmen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A soft-girl coder 💖 | Front-End & Python Enthusiast | Turning ideas into cute coding projects ✨</h3>
+<h3 align="center">A soft-girl coder 💖 | Front-End & Ai Enthusiast | Turning ideas into cute coding projects ✨</h3>
 
 ---
 
 ## :sparkles: About Me
 - :school: Currently pursuing studies in Software & Web Development  
 - :technologist: I love solving problems with code and creating mini projects for fun  
-- :student: Learning: `React`, `Advanced CSS`, `Python Data Structures`  
-- :thinking: Open for: `collaboration on beginner-friendly Python projects` or `web dev projects`  
+- :student: Learning: `React`, `Advanced CSS`, `Data Structures`  
+- :thinking: Open for: `collaboration on Ai projects` or `web dev projects`  
 - :nerd_face: Always `learning new things`  
-- :computer: `Python` & Front-End Lover  
+- :computer: `Ai` & Web Dev Lover  
 
 ---
 
